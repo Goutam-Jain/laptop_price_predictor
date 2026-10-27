@@ -32,7 +32,7 @@
 
 ## 📁 Dataset
 
-- Contains 1000+ labeled laptop records scraped from e-commerce sites.
+- Contains 1000+ labeled laptop records.
 - Features include: brand, processor, RAM, SSD/HDD, GPU, screen size, and OS.
 - Data cleaned and preprocessed using pandas.
 
